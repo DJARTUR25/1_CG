@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Фильтры_лаба")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06578d945be832f9afdef525f0ba30fed515c28d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85d62eb11af2a68a01d9b72cc0727c9ada22e480")]
 [assembly: System.Reflection.AssemblyProductAttribute("Фильтры_лаба")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Фильтры_лаба")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
